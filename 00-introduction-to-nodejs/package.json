@@ -1,0 +1,12 @@
+{
+  "name": "00-introduction-to-nodejs",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
